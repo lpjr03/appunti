@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b660af2123e4d3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2657bf451e8fa49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f864a700bfdc23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/Ricerca simbolica e locale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af52fa5a03010056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/Intro al planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b36c3f965649abe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/Robotica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f943f0b41b1b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/MinMax per i giochi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9000a1350dd17364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/Algoritmi Genetici.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e075c058b6120a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b78e02dcca775a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60672d4f6822869f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "79a2cdc10b7bf2bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hill ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8387cad2b492e357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b26d68121911a588",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a7336f62b56bae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1407d6fd76595850",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/MinMax per i giochi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e63c30d6fd0917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/MinMax per i giochi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dd22a7b35cf4c67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2919a3013b094d29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INTELLIGENZA ARTIFICIALE/MinMax per i giochi.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "52f943f0b41b1b46",
+  "lastOpenFiles": [
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241205185719.png",
+    "Pasted image 20241205185916.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241205173245.png",
+    "INTELLIGENZA ARTIFICIALE/MinMax per i giochi.md",
+    "INTELLIGENZA ARTIFICIALE/Robotica.md",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241205125015.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241205114600.png",
+    "INTELLIGENZA ARTIFICIALE/Intro al planning.md",
+    "INTELLIGENZA ARTIFICIALE/Algoritmi Genetici.md",
+    "INTELLIGENZA ARTIFICIALE/Ricerca simbolica e locale.md",
+    "INTELLIGENZA ARTIFICIALE/Introduzione e Storia IA.md",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241112213517.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241112213504.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241112123946.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241026125254.png",
+    "INTELLIGENZA ARTIFICIALE/SCREENSHOTS/Pasted image 20241026125231.png",
+    "INTELLIGENZA ARTIFICIALE",
+    "Introduzione olica, - Ricerca simb.md"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "037015880c02e104",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fcb1a7191ae10e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12476adcae6f1fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEORIA/CREDITO 2-4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ae1123a6fd316b2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ALLEGATI/Pasted image 20241206123035.png"
+              }
+            }
+          },
+          {
+            "id": "dc149be667287c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEORIA/REMOTE SENSING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dec96e5522e3ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5a36c61388a6cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96f08a38fb1d3e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c656631e2426bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "RASTER",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70bfe8731b445846",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "631cd84b03b4ad00",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fc1a4c9e5a2c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc95955a58f0cde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEORIA/CREDITO 2-4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a761cca943b5ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEORIA/CREDITO 2-4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dd7402d9bb2f503",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4036b1b61d466fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEORIA/CREDITO 2-4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c96f08a38fb1d3e8",
+  "lastOpenFiles": [
+    "ALLEGATI/Pasted image 20241206123035.png",
+    "TEORIA/REMOTE SENSING.md",
+    "TEORIA/DEM.md",
+    "TEORIA/CREDITO 2-4.md",
+    "TEORIA/CREDITO 1.md",
+    "ALLEGATI/Pasted image 20241206120946.png",
+    "ALLEGATI/Pasted image 20241113123446.png",
+    "ALLEGATI/Pasted image 20241113122532.png",
+    "ALLEGATI/Pasted image 20241113121840.png",
+    "QGIS/INTRO A QGIS.md",
+    "ALLEGATI/Pasted image 20241023114509.png",
+    "QGIS",
+    "TEORIA",
+    "ALLEGATI/Pasted image 20241022164043.png",
+    "ALLEGATI",
+    "ALLEGATI/Pasted image 20241022151443.png",
+    "ALLEGATI/Pasted image 20241022150649.png",
+    "ALLEGATI/Pasted image 20241022143428.png",
+    "Welcome.md"
+  ]
+}
